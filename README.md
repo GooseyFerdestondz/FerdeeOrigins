@@ -7,7 +7,7 @@
 
 Cần phải tải [CSS ClientMod v34](https://clientmod.ru/)
 
-Kiểm tra phần Release để có thông báo về các bản cập nhật mới nhất nhé!
+Kiểm tra phần Releases để có thông báo về các bản cập nhật mới nhất nhé!
 
 ## Cài Đặt
 
